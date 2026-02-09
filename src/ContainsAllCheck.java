@@ -8,9 +8,9 @@ public class ContainsAllCheck {
         if (A.containsAll(B)) {
             System.out.println("A contains all elements of B");
         } else {
+
             System.out.println("A does NOT contain all elements of B");
         }
     }
 }
-
 
